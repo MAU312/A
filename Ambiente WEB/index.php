@@ -12,6 +12,7 @@
     ?>
     <h1>Hola</h1>
     <?php
+    
         echo $mivar;
         var_dump($mivar);
     ?>
