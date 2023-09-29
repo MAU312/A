@@ -1,8 +1,12 @@
+/* !Aqui va el Header */
+
 header {
     height: 100x;
     display: flex;
     border-bottom: 1px solid gray;
 }
+
+/* !Aqui va el Logo */
 
 .container_logo {
     height: 75px;
@@ -15,6 +19,8 @@ header {
     width: 120px;
     border: 1px solid black;
 }
+
+/* !Aqui va el Navbar */
 
 #navbar {
     width: 100%;
@@ -40,10 +46,14 @@ header {
     color: black;
 }
 
+/* !Aqui va el Carrusel */
+
 #carrusel {
     border: 1px solid gray;
     height: 300px;
 }
+
+/* !Aqui va el Main */
 
 main {
     display: flex;
@@ -59,6 +69,8 @@ main aside {
     border: 1px solid orange;
     width: 75%;
 }
+
+/* !Aqui va el Footer */
 
 footer {
     border: 1px solid black;
@@ -83,6 +95,8 @@ footer h1 {
 .sec_formulario {
     width: 50%;
 }
+
+/* !Aqui van las noticias */
 
 #noticias_todas {
     padding: 20px 100px;
@@ -110,6 +124,8 @@ footer h1 {
     margin-top: 30px;
     text-align: right;
 }
+
+/* !Aqui va el Aside */
 
 aside {
     padding: 0px 25px;
